@@ -39,7 +39,7 @@
     "slug": "email-invoice-gateway",
     "name": "Email Invoice Gateway",
     "description": "Send an invoice email to the customer with a link to pay for the order.",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "author": "kilbot",
     "category": "payments",
     "tags": ["email", "invoice"],
@@ -49,8 +49,8 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/send-email.svg",
     "homepage": "https://github.com/wcpos/email-invoice-gateway",
-    "download_url": "https://github.com/wcpos/email-invoice-gateway/releases/download/v0.0.9/woocommerce-pos-email-invoice-gateway.zip",
-    "latest_version": "0.0.9",
-    "released_at": "2024-06-20T20:35:31Z"
+    "download_url": "https://github.com/wcpos/email-invoice-gateway/releases/download/v0.0.10/email-invoice-gateway.zip",
+    "latest_version": "0.0.10",
+    "released_at": "2026-02-11T00:00:00Z"
   }
 ]
