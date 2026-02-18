@@ -65,7 +65,7 @@
     "requires_wc": "",
     "requires_wcpos": "",
     "requires_pro": false,
-    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/wcpos-polylang.svg",
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/wcpos-polylang.png",
     "homepage": "https://github.com/wcpos/wcpos-polylang",
     "download_url": "https://github.com/wcpos/wcpos-polylang/releases/download/v0.1.0/wcpos-polylang.zip",
     "latest_version": "0.1.0",
