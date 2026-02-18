@@ -52,5 +52,23 @@
     "download_url": "https://github.com/wcpos/email-invoice-gateway/releases/download/v0.0.10/email-invoice-gateway.zip",
     "latest_version": "0.0.10",
     "released_at": "2026-02-11T00:00:00Z"
+  },
+  {
+    "slug": "wcpos-polylang",
+    "name": "WCPOS Polylang",
+    "description": "Filter WCPOS products by Polylang language and prevent duplicate translated products in POS sync.",
+    "version": "0.1.0",
+    "author": "kilbot",
+    "category": "catalog",
+    "tags": ["polylang", "language", "products"],
+    "requires_wp": "",
+    "requires_wc": "",
+    "requires_wcpos": "",
+    "requires_pro": false,
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/wcpos-polylang.svg",
+    "homepage": "https://github.com/wcpos/wcpos-polylang",
+    "download_url": "https://github.com/wcpos/wcpos-polylang/releases/download/v0.1.0/wcpos-polylang.zip",
+    "latest_version": "0.1.0",
+    "released_at": "2026-02-18T21:21:45Z"
   }
 ]
