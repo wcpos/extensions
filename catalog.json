@@ -85,6 +85,28 @@
     "released_at": "2026-02-18T21:21:45Z"
   },
   {
+    "slug": "wcpos-wp-multilang",
+    "name": "WCPOS WP Multilang",
+    "description": "Filter WCPOS products by WP Multilang language and prevent duplicate translated products in POS sync.",
+    "version": "0.1.0",
+    "author": "kilbot",
+    "category": "catalog",
+    "tags": [
+      "wp-multilang",
+      "language",
+      "products"
+    ],
+    "requires_wp": "",
+    "requires_wc": "",
+    "requires_wcpos": "",
+    "requires_pro": false,
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/wp-multilang.png",
+    "homepage": "https://github.com/wcpos/wcpos-wp-multilang",
+    "download_url": "https://github.com/wcpos/wcpos-wp-multilang/releases/download/v0.1.0/wcpos-wp-multilang.zip",
+    "latest_version": "0.1.0",
+    "released_at": "2026-02-19T02:22:30Z"
+  },
+  {
     "slug": "wcpos-wpml",
     "name": "WCPOS WPML",
     "description": "Filter WCPOS products by WPML language and prevent duplicate translated products in POS sync.",
