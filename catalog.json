@@ -6,7 +6,10 @@
     "version": "0.0.13",
     "author": "kilbot",
     "category": "payments",
-    "tags": ["stripe", "terminal"],
+    "tags": [
+      "stripe",
+      "terminal"
+    ],
     "requires_wp": "5.2",
     "requires_wc": "",
     "requires_wcpos": "",
@@ -24,7 +27,10 @@
     "version": "0.0.5",
     "author": "kilbot",
     "category": "payments",
-    "tags": ["sumup", "terminal"],
+    "tags": [
+      "sumup",
+      "terminal"
+    ],
     "requires_wp": "5.2",
     "requires_wc": "",
     "requires_wcpos": "",
@@ -42,7 +48,10 @@
     "version": "0.0.10",
     "author": "kilbot",
     "category": "payments",
-    "tags": ["email", "invoice"],
+    "tags": [
+      "email",
+      "invoice"
+    ],
     "requires_wp": "",
     "requires_wc": "",
     "requires_wcpos": "",
@@ -60,7 +69,11 @@
     "version": "0.1.0",
     "author": "kilbot",
     "category": "catalog",
-    "tags": ["polylang", "language", "products"],
+    "tags": [
+      "polylang",
+      "language",
+      "products"
+    ],
     "requires_wp": "",
     "requires_wc": "",
     "requires_wcpos": "",
@@ -70,5 +83,27 @@
     "download_url": "https://github.com/wcpos/wcpos-polylang/releases/download/v0.1.0/wcpos-polylang.zip",
     "latest_version": "0.1.0",
     "released_at": "2026-02-18T21:21:45Z"
+  },
+  {
+    "slug": "wcpos-wpml",
+    "name": "WCPOS WPML",
+    "description": "Filter WCPOS products by WPML language and prevent duplicate translated products in POS sync.",
+    "version": "0.1.0",
+    "author": "kilbot",
+    "category": "catalog",
+    "tags": [
+      "wpml",
+      "language",
+      "products"
+    ],
+    "requires_wp": "",
+    "requires_wc": "",
+    "requires_wcpos": "",
+    "requires_pro": false,
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/wpml.png",
+    "homepage": "https://github.com/wcpos/wcpos-wpml",
+    "download_url": "https://github.com/wcpos/wcpos-wpml/releases/download/v0.1.0/wcpos-wpml.zip",
+    "latest_version": "0.1.0",
+    "released_at": "2026-02-19T05:18:33Z"
   }
 ]
