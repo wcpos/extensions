@@ -3,7 +3,7 @@
     "slug": "stripe-terminal-for-woocommerce",
     "name": "Stripe Terminal for WooCommerce",
     "description": "Adds Stripe Terminal support to WooCommerce for in-person payments.",
-    "version": "0.0.13",
+    "version": "0.0.14",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -16,15 +16,15 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/stripe.svg",
     "homepage": "https://github.com/wcpos/stripe-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/stripe-terminal-for-woocommerce/releases/download/v0.0.13/stripe-terminal-for-woocommerce.zip",
-    "latest_version": "0.0.13",
-    "released_at": "2025-10-07T18:56:42Z"
+    "download_url": "https://github.com/wcpos/stripe-terminal-for-woocommerce/releases/download/v0.0.14/stripe-terminal-for-woocommerce.zip",
+    "latest_version": "0.0.14",
+    "released_at": "2026-02-28T18:06:41Z"
   },
   {
     "slug": "sumup-terminal-for-woocommerce",
     "name": "SumUp Terminal for WooCommerce",
     "description": "Adds SumUp Terminal support to WooCommerce for in-person payments.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -37,9 +37,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/sumup.svg",
     "homepage": "https://github.com/wcpos/sumup-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/sumup-terminal-for-woocommerce/releases/download/v0.0.5/sumup-terminal-for-woocommerce.zip",
-    "latest_version": "0.0.5",
-    "released_at": "2025-08-06T13:05:56Z"
+    "download_url": "https://github.com/wcpos/sumup-terminal-for-woocommerce/releases/download/v0.0.6/sumup-terminal-for-woocommerce.zip",
+    "latest_version": "0.0.6",
+    "released_at": "2026-02-18T12:54:52Z"
   },
   {
     "slug": "email-invoice-gateway",
@@ -60,7 +60,7 @@
     "homepage": "https://github.com/wcpos/email-invoice-gateway",
     "download_url": "https://github.com/wcpos/email-invoice-gateway/releases/download/v0.0.10/email-invoice-gateway.zip",
     "latest_version": "0.0.10",
-    "released_at": "2026-02-11T00:00:00Z"
+    "released_at": "2026-02-11T21:33:45Z"
   },
   {
     "slug": "wcpos-polylang",
@@ -104,7 +104,7 @@
     "homepage": "https://github.com/wcpos/wcpos-wp-multilang",
     "download_url": "https://github.com/wcpos/wcpos-wp-multilang/releases/download/v0.1.0/wcpos-wp-multilang.zip",
     "latest_version": "0.1.0",
-    "released_at": "2026-02-19T02:22:30Z"
+    "released_at": "2026-02-19T02:25:39Z"
   },
   {
     "slug": "wcpos-wpml",
@@ -126,13 +126,13 @@
     "homepage": "https://github.com/wcpos/wcpos-wpml",
     "download_url": "https://github.com/wcpos/wcpos-wpml/releases/download/v0.1.0/wcpos-wpml.zip",
     "latest_version": "0.1.0",
-    "released_at": "2026-02-19T05:18:33Z"
+    "released_at": "2026-02-19T05:34:46Z"
   },
   {
     "slug": "wcpos-vipps",
     "name": "WCPOS Vipps MobilePay",
     "description": "Adds Vipps and MobilePay payment support to WooCommerce POS via QR code or push notification.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -146,8 +146,8 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/vipps.svg",
     "homepage": "https://github.com/wcpos/wcpos-vipps",
-    "download_url": "https://github.com/wcpos/wcpos-vipps/releases/download/v0.0.1/wcpos-vipps.zip",
-    "latest_version": "0.0.1",
-    "released_at": "2026-02-28T17:45:51Z"
+    "download_url": "https://github.com/wcpos/wcpos-vipps/releases/download/v0.1.0/wcpos-vipps.zip",
+    "latest_version": "0.1.0",
+    "released_at": "2026-02-28T18:19:13Z"
   }
 ]
