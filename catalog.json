@@ -3,7 +3,7 @@
     "slug": "stripe-terminal-for-woocommerce",
     "name": "Stripe Terminal for WooCommerce",
     "description": "Adds Stripe Terminal support to WooCommerce for in-person payments.",
-    "version": "0.0.17",
+    "version": "0.0.18",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -16,9 +16,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/stripe.svg",
     "homepage": "https://github.com/wcpos/stripe-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/stripe-terminal-for-woocommerce/releases/download/v0.0.17/stripe-terminal-for-woocommerce.zip",
-    "latest_version": "0.0.17",
-    "released_at": "2026-03-04T16:37:30Z"
+    "download_url": "https://github.com/wcpos/stripe-terminal-for-woocommerce/releases/download/v0.0.18/stripe-terminal-for-woocommerce.zip",
+    "latest_version": "0.0.18",
+    "released_at": "2026-04-21T21:59:08Z"
   },
   {
     "slug": "sumup-terminal-for-woocommerce",
