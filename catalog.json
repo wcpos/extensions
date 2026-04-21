@@ -24,7 +24,7 @@
     "slug": "sumup-terminal-for-woocommerce",
     "name": "SumUp Terminal for WooCommerce",
     "description": "Adds SumUp Terminal support to WooCommerce for in-person payments.",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -37,15 +37,15 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/sumup.svg",
     "homepage": "https://github.com/wcpos/sumup-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/sumup-terminal-for-woocommerce/releases/download/v0.0.7/sumup-terminal-for-woocommerce.zip",
-    "latest_version": "0.0.7",
-    "released_at": "2026-03-03T18:36:07Z"
+    "download_url": "https://github.com/wcpos/sumup-terminal-for-woocommerce/releases/download/v0.0.8/sumup-terminal-for-woocommerce.zip",
+    "latest_version": "0.0.8",
+    "released_at": "2026-04-21T14:01:21Z"
   },
   {
     "slug": "email-invoice-gateway",
     "name": "Email Invoice Gateway",
     "description": "Send an invoice email to the customer with a link to pay for the order.",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -58,15 +58,15 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/send-email.svg",
     "homepage": "https://github.com/wcpos/email-invoice-gateway",
-    "download_url": "https://github.com/wcpos/email-invoice-gateway/releases/download/v0.0.10/email-invoice-gateway.zip",
-    "latest_version": "0.0.10",
-    "released_at": "2026-02-11T21:33:45Z"
+    "download_url": "https://github.com/wcpos/email-invoice-gateway/releases/download/v0.0.11/email-invoice-gateway.zip",
+    "latest_version": "0.0.11",
+    "released_at": "2026-04-21T13:58:52Z"
   },
   {
     "slug": "wcpos-polylang",
     "name": "WCPOS Polylang",
     "description": "Filter WCPOS products by Polylang language and prevent duplicate translated products in POS sync.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "kilbot",
     "category": "catalog",
     "tags": [
@@ -80,15 +80,15 @@
     "requires_pro": false,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/polylang.png",
     "homepage": "https://github.com/wcpos/wcpos-polylang",
-    "download_url": "https://github.com/wcpos/wcpos-polylang/releases/download/v0.1.0/wcpos-polylang.zip",
-    "latest_version": "0.1.0",
-    "released_at": "2026-02-18T21:21:45Z"
+    "download_url": "https://github.com/wcpos/wcpos-polylang/releases/download/v0.1.1/wcpos-polylang.zip",
+    "latest_version": "0.1.1",
+    "released_at": "2026-04-21T14:03:19Z"
   },
   {
     "slug": "wcpos-wp-multilang",
     "name": "WCPOS WP Multilang",
     "description": "Filter WCPOS products by WP Multilang language and prevent duplicate translated products in POS sync.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "kilbot",
     "category": "catalog",
     "tags": [
@@ -102,15 +102,15 @@
     "requires_pro": false,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/wp-multilang.png",
     "homepage": "https://github.com/wcpos/wcpos-wp-multilang",
-    "download_url": "https://github.com/wcpos/wcpos-wp-multilang/releases/download/v0.1.0/wcpos-wp-multilang.zip",
-    "latest_version": "0.1.0",
-    "released_at": "2026-02-19T02:25:39Z"
+    "download_url": "https://github.com/wcpos/wcpos-wp-multilang/releases/download/v0.1.1/wcpos-wp-multilang.zip",
+    "latest_version": "0.1.1",
+    "released_at": "2026-04-21T13:59:58Z"
   },
   {
     "slug": "wcpos-wpml",
     "name": "WCPOS WPML",
     "description": "Filter WCPOS products by WPML language and prevent duplicate translated products in POS sync.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "kilbot",
     "category": "catalog",
     "tags": [
@@ -124,15 +124,15 @@
     "requires_pro": false,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/wpml.png",
     "homepage": "https://github.com/wcpos/wcpos-wpml",
-    "download_url": "https://github.com/wcpos/wcpos-wpml/releases/download/v0.1.0/wcpos-wpml.zip",
-    "latest_version": "0.1.0",
-    "released_at": "2026-02-19T05:34:46Z"
+    "download_url": "https://github.com/wcpos/wcpos-wpml/releases/download/v0.1.1/wcpos-wpml.zip",
+    "latest_version": "0.1.1",
+    "released_at": "2026-04-21T14:02:22Z"
   },
   {
     "slug": "wcpos-vipps",
     "name": "WCPOS Vipps MobilePay",
     "description": "Adds Vipps and MobilePay payment support to WooCommerce POS via QR code or push notification.",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -146,15 +146,15 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/vipps.svg",
     "homepage": "https://github.com/wcpos/wcpos-vipps",
-    "download_url": "https://github.com/wcpos/wcpos-vipps/releases/download/v0.5.0/wcpos-vipps.zip",
-    "latest_version": "0.5.0",
-    "released_at": "2026-03-04T23:10:20Z"
+    "download_url": "https://github.com/wcpos/wcpos-vipps/releases/download/v0.5.1/wcpos-vipps.zip",
+    "latest_version": "0.5.1",
+    "released_at": "2026-04-21T14:01:07Z"
   },
   {
     "slug": "wcpos-atum",
     "name": "WCPOS ATUM Integration",
     "description": "ATUM Multi-Inventory integration for WCPOS, linking inventory locations to POS stores.",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "author": "kilbot",
     "category": "inventory",
     "tags": [
@@ -169,8 +169,8 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/atum.svg",
     "homepage": "https://github.com/wcpos/wcpos-atum",
-    "download_url": "https://github.com/wcpos/wcpos-atum/releases/download/v0.1.2/wcpos-atum.zip",
-    "latest_version": "0.1.2",
-    "released_at": "2026-04-20T23:10:02Z"
+    "download_url": "https://github.com/wcpos/wcpos-atum/releases/download/v0.1.3/wcpos-atum.zip",
+    "latest_version": "0.1.3",
+    "released_at": "2026-04-21T14:00:26Z"
   }
 ]
