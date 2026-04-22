@@ -18,7 +18,9 @@
     "homepage": "https://github.com/wcpos/paypal-reader-for-woocommerce",
     "download_url": "https://github.com/wcpos/paypal-reader-for-woocommerce/releases/download/v0.0.1/paypal-reader-for-woocommerce-0.0.1.zip",
     "latest_version": "0.0.1",
-    "released_at": "2026-04-22T11:31:52Z"
+    "released_at": "2026-04-22T11:31:52Z",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=paypal_reader_for_woocommerce",
+    "log_source": "paypal-reader-for-woocommerce"
   },
   {
     "slug": "stripe-terminal-for-woocommerce",
@@ -39,7 +41,9 @@
     "homepage": "https://github.com/wcpos/stripe-terminal-for-woocommerce",
     "download_url": "https://github.com/wcpos/stripe-terminal-for-woocommerce/releases/download/v0.0.19/stripe-terminal-for-woocommerce.zip",
     "latest_version": "0.0.19",
-    "released_at": "2026-04-22T06:52:16Z"
+    "released_at": "2026-04-22T06:52:16Z",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=stripe_terminal_for_woocommerce",
+    "log_source": "stripe-terminal-for-woocommerce"
   },
   {
     "slug": "sumup-terminal-for-woocommerce",
@@ -60,7 +64,9 @@
     "homepage": "https://github.com/wcpos/sumup-terminal-for-woocommerce",
     "download_url": "https://github.com/wcpos/sumup-terminal-for-woocommerce/releases/download/v0.0.8/sumup-terminal-for-woocommerce.zip",
     "latest_version": "0.0.8",
-    "released_at": "2026-04-21T14:01:21Z"
+    "released_at": "2026-04-21T14:01:21Z",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=sumup_terminal_for_woocommerce",
+    "log_source": "sumup-terminal-for-woocommerce"
   },
   {
     "slug": "email-invoice-gateway",
@@ -81,7 +87,8 @@
     "homepage": "https://github.com/wcpos/email-invoice-gateway",
     "download_url": "https://github.com/wcpos/email-invoice-gateway/releases/download/v0.0.11/email-invoice-gateway.zip",
     "latest_version": "0.0.11",
-    "released_at": "2026-04-21T13:58:52Z"
+    "released_at": "2026-04-21T13:58:52Z",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=wcpos_email_invoice"
   },
   {
     "slug": "wcpos-polylang",
@@ -169,7 +176,9 @@
     "homepage": "https://github.com/wcpos/wcpos-vipps",
     "download_url": "https://github.com/wcpos/wcpos-vipps/releases/download/v0.5.1/wcpos-vipps.zip",
     "latest_version": "0.5.1",
-    "released_at": "2026-04-21T14:01:07Z"
+    "released_at": "2026-04-21T14:01:07Z",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=wcpos_vipps",
+    "log_source": "wcpos-vipps"
   },
   {
     "slug": "wcpos-atum",
