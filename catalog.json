@@ -3,7 +3,7 @@
     "slug": "paypal-reader-for-woocommerce",
     "name": "PayPal Reader for WooCommerce",
     "description": "Adds PayPal Reader support to WooCommerce for in-person payments.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -16,9 +16,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/paypal.svg",
     "homepage": "https://github.com/wcpos/paypal-reader-for-woocommerce",
-    "download_url": "https://github.com/wcpos/paypal-reader-for-woocommerce/releases/download/v0.0.1/paypal-reader-for-woocommerce-0.0.1.zip",
-    "latest_version": "0.0.1",
-    "released_at": "2026-04-22T11:31:52Z",
+    "download_url": "https://github.com/wcpos/paypal-reader-for-woocommerce/releases/download/v0.1.0/paypal-reader-for-woocommerce-0.1.0.zip",
+    "latest_version": "0.1.0",
+    "released_at": "2026-04-22T16:00:05Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=paypal_reader_for_woocommerce",
     "log_source": "paypal-reader-for-woocommerce"
   },
