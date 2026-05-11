@@ -160,7 +160,7 @@
     "slug": "wcpos-vipps",
     "name": "WCPOS Vipps MobilePay",
     "description": "Adds Vipps and MobilePay payment support to WooCommerce POS via QR code or push notification.",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -174,9 +174,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/vipps.svg",
     "homepage": "https://github.com/wcpos/wcpos-vipps",
-    "download_url": "https://github.com/wcpos/wcpos-vipps/releases/download/v0.5.1/wcpos-vipps.zip",
-    "latest_version": "0.5.1",
-    "released_at": "2026-04-21T14:01:07Z",
+    "download_url": "https://github.com/wcpos/wcpos-vipps/releases/download/v0.5.2/wcpos-vipps.zip",
+    "latest_version": "0.5.2",
+    "released_at": "2026-05-11T11:31:34Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=wcpos_vipps",
     "log_source": "wcpos-vipps"
   },
