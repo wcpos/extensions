@@ -26,7 +26,7 @@
     "slug": "stripe-terminal-for-woocommerce",
     "name": "Stripe Terminal for WooCommerce",
     "description": "Adds Stripe Terminal support to WooCommerce for in-person payments.",
-    "version": "0.0.23",
+    "version": "0.0.24",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -39,9 +39,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/stripe.svg",
     "homepage": "https://github.com/wcpos/stripe-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/stripe-terminal-for-woocommerce/releases/download/v0.0.23/stripe-terminal-for-woocommerce.zip",
-    "latest_version": "0.0.23",
-    "released_at": "2026-05-14T10:49:55Z",
+    "download_url": "https://github.com/wcpos/stripe-terminal-for-woocommerce/releases/download/v0.0.24/stripe-terminal-for-woocommerce.zip",
+    "latest_version": "0.0.24",
+    "released_at": "2026-05-14T12:26:53Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=stripe_terminal_for_woocommerce",
     "log_source": "stripe-terminal-for-woocommerce"
   },
