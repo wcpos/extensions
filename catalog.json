@@ -202,5 +202,28 @@
     "download_url": "https://github.com/wcpos/wcpos-atum/releases/download/v0.1.3/wcpos-atum.zip",
     "latest_version": "0.1.3",
     "released_at": "2026-04-21T14:00:26Z"
+  },
+  {
+    "slug": "wcpos-storeapps-smart-coupons",
+    "name": "WCPOS StoreApps Smart Coupons",
+    "description": "StoreApps Smart Coupons store credit compatibility for WCPOS receipts, order notes, and balance deductions.",
+    "version": "0.1.0",
+    "author": "kilbot",
+    "category": "coupons",
+    "tags": [
+      "storeapps",
+      "smart-coupons",
+      "store-credit",
+      "gift-cards"
+    ],
+    "requires_wp": "",
+    "requires_wc": "",
+    "requires_wcpos": "",
+    "requires_pro": true,
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/smart-coupons.svg",
+    "homepage": "https://github.com/wcpos/wcpos-storeapps-smart-coupons",
+    "download_url": "https://github.com/wcpos/wcpos-storeapps-smart-coupons/releases/download/v0.1.0/wcpos-storeapps-smart-coupons.zip",
+    "latest_version": "0.1.0",
+    "released_at": "2026-05-20T17:30:08Z"
   }
 ]
