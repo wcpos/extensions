@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Store credit coupon</title>
+  <desc id="desc">A coupon ticket with a currency mark and sparkle.</desc>
+  <rect width="64" height="64" rx="14" fill="#f59e0b"/>
+  <path d="M14 22a6 6 0 0 1 6-6h24a6 6 0 0 1 6 6v3a7 7 0 0 0 0 14v3a6 6 0 0 1-6 6H20a6 6 0 0 1-6-6v-3a7 7 0 0 0 0-14v-3Z" fill="#fff7ed"/>
+  <path d="M25 38c1.8 1.5 4.1 2.2 6.8 2.2 4.1 0 6.8-2 6.8-5.1 0-3.5-3.1-4.4-6.4-5.1-2.2-.5-3.5-.9-3.5-2.2 0-1.2 1.1-2 3-2 1.8 0 3.3.5 4.7 1.6l1.8-3.1c-1.4-1.1-3.1-1.8-5.1-2V20h-3v2.3c-3.5.5-5.7 2.6-5.7 5.5 0 3.4 3 4.3 6.1 5 2.4.5 3.8.9 3.8 2.4 0 1.3-1.1 2-3.1 2-1.9 0-3.7-.6-5.2-1.9L25 38Z" fill="#92400e"/>
+  <path d="M48 13l1.5 3.5L53 18l-3.5 1.5L48 23l-1.5-3.5L43 18l3.5-1.5L48 13Z" fill="#fffbeb"/>
+</svg>
