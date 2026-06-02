@@ -207,7 +207,7 @@
     "slug": "wcpos-storeapps-smart-coupons",
     "name": "WCPOS StoreApps Smart Coupons",
     "description": "StoreApps Smart Coupons store credit compatibility for WCPOS receipts, order notes, and balance deductions.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "kilbot",
     "category": "coupons",
     "tags": [
@@ -222,8 +222,8 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/smart-coupons.svg",
     "homepage": "https://github.com/wcpos/wcpos-storeapps-smart-coupons",
-    "download_url": "https://github.com/wcpos/wcpos-storeapps-smart-coupons/releases/download/v0.1.0/wcpos-storeapps-smart-coupons.zip",
-    "latest_version": "0.1.0",
-    "released_at": "2026-05-20T17:30:08Z"
+    "download_url": "https://github.com/wcpos/wcpos-storeapps-smart-coupons/releases/download/v0.1.1/wcpos-storeapps-smart-coupons.zip",
+    "latest_version": "0.1.1",
+    "released_at": "2026-06-02T19:38:05Z"
   }
 ]
