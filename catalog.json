@@ -225,5 +225,28 @@
     "download_url": "https://github.com/wcpos/wcpos-storeapps-smart-coupons/releases/download/v0.1.1/wcpos-storeapps-smart-coupons.zip",
     "latest_version": "0.1.1",
     "released_at": "2026-06-02T19:38:05Z"
+  },
+  {
+    "slug": "square-terminal-for-woocommerce",
+    "name": "Square Terminal for WooCommerce",
+    "description": "Adds Square Terminal support to WooCommerce for in-person payments.",
+    "version": "0.1.0",
+    "author": "kilbot",
+    "category": "payments",
+    "tags": [
+      "square",
+      "terminal"
+    ],
+    "requires_wp": "6.5",
+    "requires_wc": "8.0",
+    "requires_wcpos": "",
+    "requires_pro": true,
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/square.svg",
+    "homepage": "https://github.com/wcpos/square-terminal-for-woocommerce",
+    "download_url": "https://github.com/wcpos/square-terminal-for-woocommerce/releases/download/v0.1.0/square-terminal-for-woocommerce.zip",
+    "latest_version": "0.1.0",
+    "released_at": "2026-06-05T00:00:00Z",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=sqtwc",
+    "log_source": "square-terminal-for-woocommerce"
   }
 ]
