@@ -245,7 +245,7 @@
     "homepage": "https://github.com/wcpos/square-terminal-for-woocommerce",
     "download_url": "https://github.com/wcpos/square-terminal-for-woocommerce/releases/download/v0.1.0/square-terminal-for-woocommerce.zip",
     "latest_version": "0.1.0",
-    "released_at": "2026-06-05T00:00:00Z",
+    "released_at": "2026-06-05T19:51:06Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=sqtwc",
     "log_source": "square-terminal-for-woocommerce"
   }
