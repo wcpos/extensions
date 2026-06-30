@@ -22,6 +22,29 @@
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=wcpos_email_invoice"
   },
   {
+    "slug": "mollie-terminal-for-woocommerce",
+    "name": "Mollie Terminal for WooCommerce",
+    "description": "Adds Mollie Terminal support to WooCommerce for in-person payments.",
+    "version": "0.1.1",
+    "author": "kilbot",
+    "category": "payments",
+    "tags": [
+      "mollie",
+      "terminal"
+    ],
+    "requires_wp": "5.2",
+    "requires_wc": "",
+    "requires_wcpos": "",
+    "requires_pro": true,
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/mollie.svg",
+    "homepage": "https://github.com/wcpos/mollie-terminal-for-woocommerce",
+    "download_url": "https://github.com/wcpos/mollie-terminal-for-woocommerce/releases/download/v0.1.1/mollie-terminal-for-woocommerce.zip",
+    "latest_version": "0.1.1",
+    "released_at": "2026-06-29T22:08:19Z",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=mollie_terminal_for_woocommerce",
+    "log_source": "mollie-terminal-for-woocommerce"
+  },
+  {
     "slug": "payarc-terminal-for-woocommerce",
     "name": "PayArc Terminal for WooCommerce",
     "description": "Adds PayArc Terminal support to WooCommerce for in-person payments.",
