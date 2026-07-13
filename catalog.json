@@ -140,7 +140,7 @@
     "slug": "sumup-terminal-for-woocommerce",
     "name": "SumUp Terminal for WooCommerce",
     "description": "Adds SumUp Terminal support to WooCommerce for in-person payments.",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -153,9 +153,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/sumup.svg",
     "homepage": "https://github.com/wcpos/sumup-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/sumup-terminal-for-woocommerce/releases/download/v0.0.9/sumup-terminal-for-woocommerce.zip",
-    "latest_version": "0.0.9",
-    "released_at": "2026-05-26T22:31:44Z",
+    "download_url": "https://github.com/wcpos/sumup-terminal-for-woocommerce/releases/download/v0.0.10/sumup-terminal-for-woocommerce.zip",
+    "latest_version": "0.0.10",
+    "released_at": "2026-07-13T14:27:38Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=sumup_terminal_for_woocommerce",
     "log_source": "sumup-terminal-for-woocommerce"
   },
