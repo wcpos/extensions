@@ -94,7 +94,7 @@
     "slug": "square-terminal-for-woocommerce",
     "name": "Square Terminal for WooCommerce",
     "description": "Adds Square Terminal support to WooCommerce for in-person payments.",
-    "version": "0.2.2",
+    "version": "0.3.0",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -107,9 +107,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/square.svg",
     "homepage": "https://github.com/wcpos/square-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/square-terminal-for-woocommerce/releases/download/v0.2.2/square-terminal-for-woocommerce.zip",
-    "latest_version": "0.2.2",
-    "released_at": "2026-07-21T14:18:20Z",
+    "download_url": "https://github.com/wcpos/square-terminal-for-woocommerce/releases/download/v0.3.0/square-terminal-for-woocommerce.zip",
+    "latest_version": "0.3.0",
+    "released_at": "2026-07-21T21:37:15Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=sqtwc",
     "log_source": "square-terminal-for-woocommerce"
   },
