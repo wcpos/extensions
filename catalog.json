@@ -48,7 +48,7 @@
     "slug": "payarc-terminal-for-woocommerce",
     "name": "PayArc Terminal for WooCommerce",
     "description": "Adds PayArc Terminal support to WooCommerce for in-person payments.",
-    "version": "0.1.14",
+    "version": "0.1.15",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -61,9 +61,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/payarc.svg",
     "homepage": "https://github.com/wcpos/payarc-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/payarc-terminal-for-woocommerce/releases/download/v0.1.14/payarc-terminal-for-woocommerce.zip",
-    "latest_version": "0.1.14",
-    "released_at": "2026-07-23T01:47:03Z",
+    "download_url": "https://github.com/wcpos/payarc-terminal-for-woocommerce/releases/download/v0.1.15/payarc-terminal-for-woocommerce.zip",
+    "latest_version": "0.1.15",
+    "released_at": "2026-07-23T19:22:48Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=payarc_terminal_for_woocommerce",
     "log_source": "payarc-terminal-for-woocommerce"
   },
