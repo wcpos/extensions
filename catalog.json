@@ -163,7 +163,7 @@
     "slug": "wcpos-atum",
     "name": "WCPOS ATUM Integration",
     "description": "ATUM Multi-Inventory integration for WCPOS, linking inventory locations to POS stores.",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "author": "kilbot",
     "category": "inventory",
     "tags": [
@@ -178,15 +178,15 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/atum.svg",
     "homepage": "https://github.com/wcpos/wcpos-atum",
-    "download_url": "https://github.com/wcpos/wcpos-atum/releases/download/v0.1.3/wcpos-atum.zip",
-    "latest_version": "0.1.3",
-    "released_at": "2026-04-21T14:00:26Z"
+    "download_url": "https://github.com/wcpos/wcpos-atum/releases/download/v0.1.4/wcpos-atum.zip",
+    "latest_version": "0.1.4",
+    "released_at": "2026-08-26T00:02:49Z"
   },
   {
     "slug": "wcpos-polylang",
     "name": "WCPOS Polylang",
     "description": "Filter WCPOS products by Polylang language and prevent duplicate translated products in POS sync.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "kilbot",
     "category": "catalog",
     "tags": [
@@ -200,9 +200,9 @@
     "requires_pro": false,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/polylang.png",
     "homepage": "https://github.com/wcpos/wcpos-polylang",
-    "download_url": "https://github.com/wcpos/wcpos-polylang/releases/download/v0.1.1/wcpos-polylang.zip",
-    "latest_version": "0.1.1",
-    "released_at": "2026-04-21T14:03:19Z"
+    "download_url": "https://github.com/wcpos/wcpos-polylang/releases/download/v0.1.2/wcpos-polylang.zip",
+    "latest_version": "0.1.2",
+    "released_at": "2026-08-25T23:59:50Z"
   },
   {
     "slug": "wcpos-storeapps-smart-coupons",
@@ -255,7 +255,7 @@
     "slug": "wcpos-wp-multilang",
     "name": "WCPOS WP Multilang",
     "description": "Filter WCPOS products by WP Multilang language and prevent duplicate translated products in POS sync.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "kilbot",
     "category": "catalog",
     "tags": [
@@ -269,15 +269,15 @@
     "requires_pro": false,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/wp-multilang.png",
     "homepage": "https://github.com/wcpos/wcpos-wp-multilang",
-    "download_url": "https://github.com/wcpos/wcpos-wp-multilang/releases/download/v0.1.1/wcpos-wp-multilang.zip",
-    "latest_version": "0.1.1",
-    "released_at": "2026-04-21T13:59:58Z"
+    "download_url": "https://github.com/wcpos/wcpos-wp-multilang/releases/download/v0.1.2/wcpos-wp-multilang.zip",
+    "latest_version": "0.1.2",
+    "released_at": "2026-08-25T23:59:56Z"
   },
   {
     "slug": "wcpos-wpml",
     "name": "WCPOS WPML",
     "description": "Filter WCPOS products by WPML language and prevent duplicate translated products in POS sync.",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "author": "kilbot",
     "category": "catalog",
     "tags": [
@@ -291,8 +291,8 @@
     "requires_pro": false,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/wpml.png",
     "homepage": "https://github.com/wcpos/wcpos-wpml",
-    "download_url": "https://github.com/wcpos/wcpos-wpml/releases/download/v0.1.1/wcpos-wpml.zip",
-    "latest_version": "0.1.1",
-    "released_at": "2026-04-21T14:02:22Z"
+    "download_url": "https://github.com/wcpos/wcpos-wpml/releases/download/v0.1.2/wcpos-wpml.zip",
+    "latest_version": "0.1.2",
+    "released_at": "2026-08-25T23:59:58Z"
   }
 ]
