@@ -25,7 +25,7 @@
     "slug": "mollie-terminal-for-woocommerce",
     "name": "Mollie Terminal for WooCommerce",
     "description": "Adds Mollie Terminal support to WooCommerce for in-person payments.",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -38,9 +38,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/mollie.svg",
     "homepage": "https://github.com/wcpos/mollie-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/mollie-terminal-for-woocommerce/releases/download/v0.5.0/mollie-terminal-for-woocommerce.zip",
-    "latest_version": "0.5.0",
-    "released_at": "2026-09-03T11:10:25Z",
+    "download_url": "https://github.com/wcpos/mollie-terminal-for-woocommerce/releases/download/v0.5.1/mollie-terminal-for-woocommerce.zip",
+    "latest_version": "0.5.1",
+    "released_at": "2026-09-03T11:28:08Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=mollie_terminal_for_woocommerce",
     "log_source": "mollie-terminal-for-woocommerce"
   },
