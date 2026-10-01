@@ -94,7 +94,7 @@
     "slug": "square-terminal-for-woocommerce",
     "name": "Square Terminal for WooCommerce",
     "description": "Adds Square Terminal support to WooCommerce for in-person payments.",
-    "version": "0.8.3",
+    "version": "0.8.4",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -107,9 +107,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/square.svg",
     "homepage": "https://github.com/wcpos/square-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/square-terminal-for-woocommerce/releases/download/v0.8.3/square-terminal-for-woocommerce.zip",
-    "latest_version": "0.8.3",
-    "released_at": "2026-09-23T12:41:13Z",
+    "download_url": "https://github.com/wcpos/square-terminal-for-woocommerce/releases/download/v0.8.4/square-terminal-for-woocommerce.zip",
+    "latest_version": "0.8.4",
+    "released_at": "2026-10-01T06:10:24Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=sqtwc",
     "log_source": "square-terminal-for-woocommerce"
   },
@@ -117,7 +117,7 @@
     "slug": "stripe-terminal-for-woocommerce",
     "name": "Stripe Terminal for WooCommerce",
     "description": "Adds Stripe Terminal support to WooCommerce for in-person payments.",
-    "version": "0.0.33",
+    "version": "0.0.34",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -130,9 +130,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/stripe.svg",
     "homepage": "https://github.com/wcpos/stripe-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/stripe-terminal-for-woocommerce/releases/download/v0.0.33/stripe-terminal-for-woocommerce.zip",
-    "latest_version": "0.0.33",
-    "released_at": "2026-09-08T15:01:05Z",
+    "download_url": "https://github.com/wcpos/stripe-terminal-for-woocommerce/releases/download/v0.0.34/stripe-terminal-for-woocommerce.zip",
+    "latest_version": "0.0.34",
+    "released_at": "2026-10-01T05:51:39Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=stripe_terminal_for_woocommerce",
     "log_source": "stripe-terminal-for-woocommerce"
   },
