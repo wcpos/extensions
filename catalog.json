@@ -22,6 +22,29 @@
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=wcpos_email_invoice"
   },
   {
+    "slug": "mercadopago-terminal-for-woocommerce",
+    "name": "Mercado Pago Terminal for WooCommerce",
+    "description": "Take card payments on a Mercado Pago Point Smart (1 or 2) terminal from WooCommerce and WooCommerce POS.",
+    "version": "0.1.0",
+    "author": "kilbot",
+    "category": "payments",
+    "tags": [
+      "mercadopago",
+      "terminal"
+    ],
+    "requires_wp": "5.2",
+    "requires_wc": "",
+    "requires_wcpos": "",
+    "requires_pro": true,
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/mercadopago.svg",
+    "homepage": "https://github.com/wcpos/mercadopago-terminal-for-woocommerce",
+    "download_url": "https://github.com/wcpos/mercadopago-terminal-for-woocommerce/releases/download/v0.1.0/mercadopago-terminal-for-woocommerce.zip",
+    "latest_version": "0.1.0",
+    "released_at": "2026-10-05T14:43:23Z",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=mercadopago_terminal_for_woocommerce",
+    "log_source": "mercadopago-terminal"
+  },
+  {
     "slug": "mollie-terminal-for-woocommerce",
     "name": "Mollie Terminal for WooCommerce",
     "description": "Adds Mollie Terminal support to WooCommerce for in-person payments.",
@@ -294,5 +317,28 @@
     "download_url": "https://github.com/wcpos/wcpos-wpml/releases/download/v0.1.2/wcpos-wpml.zip",
     "latest_version": "0.1.2",
     "released_at": "2026-08-25T23:59:58Z"
+  },
+  {
+    "slug": "windcave-terminal-for-woocommerce",
+    "name": "Windcave Terminal for WooCommerce",
+    "description": "Take in-person card payments on a Windcave terminal using HIT from the WooCommerce POS order-pay page.",
+    "version": "0.1.0",
+    "author": "kilbot",
+    "category": "payments",
+    "tags": [
+      "windcave",
+      "terminal"
+    ],
+    "requires_wp": "5.2",
+    "requires_wc": "",
+    "requires_wcpos": "",
+    "requires_pro": true,
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/windcave.svg",
+    "homepage": "https://github.com/wcpos/windcave-terminal-for-woocommerce",
+    "download_url": "https://github.com/wcpos/windcave-terminal-for-woocommerce/releases/download/v0.1.0/windcave-terminal-for-woocommerce.zip",
+    "latest_version": "0.1.0",
+    "released_at": "2026-10-05T14:57:37Z",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=windcave_terminal_for_woocommerce",
+    "log_source": "windcave-terminal"
   }
 ]
