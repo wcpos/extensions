@@ -322,7 +322,7 @@
     "slug": "windcave-terminal-for-woocommerce",
     "name": "Windcave Terminal for WooCommerce",
     "description": "Take in-person card payments on a Windcave terminal using HIT from the WooCommerce POS order-pay page.",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "kilbot",
     "category": "payments",
     "tags": [
@@ -335,9 +335,9 @@
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/windcave.svg",
     "homepage": "https://github.com/wcpos/windcave-terminal-for-woocommerce",
-    "download_url": "https://github.com/wcpos/windcave-terminal-for-woocommerce/releases/download/v0.1.0/windcave-terminal-for-woocommerce.zip",
-    "latest_version": "0.1.0",
-    "released_at": "2026-10-05T14:57:37Z",
+    "download_url": "https://github.com/wcpos/windcave-terminal-for-woocommerce/releases/download/v0.1.1/windcave-terminal-for-woocommerce.zip",
+    "latest_version": "0.1.1",
+    "released_at": "2026-10-28T20:30:21Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=windcave_terminal_for_woocommerce",
     "log_source": "windcave-terminal"
   }
