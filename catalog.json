@@ -18,7 +18,7 @@
     "homepage": "https://github.com/wcpos/authorize-net-terminal-for-woocommerce",
     "download_url": "https://github.com/wcpos/authorize-net-terminal-for-woocommerce/releases/download/v0.1.0/authorize-net-terminal-for-woocommerce.zip",
     "latest_version": "0.1.0",
-    "released_at": "",
+    "released_at": "2026-11-12T11:41:17Z",
     "settings_url": "admin.php?page=wc-settings&tab=checkout&section=authorize_net_terminal_for_woocommerce",
     "log_source": "authorize-net-terminal-for-woocommerce"
   },
