@@ -1,5 +1,28 @@
 [
   {
+    "slug": "authorize-net-terminal-for-woocommerce",
+    "name": "Authorize.net Tap to Pay for WooCommerce (beta)",
+    "description": "Take in-person payments with Authorize.net Tap to Pay in Authorize.net's mobile app (US only). The POS finds the payment and completes the order.",
+    "version": "0.1.0",
+    "author": "kilbot",
+    "category": "payments",
+    "tags": [
+      "authorize.net",
+      "tap to pay"
+    ],
+    "requires_wp": "",
+    "requires_wc": "7.0",
+    "requires_wcpos": "2.0.0",
+    "requires_pro": true,
+    "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/authorize-net.svg",
+    "homepage": "https://github.com/wcpos/authorize-net-terminal-for-woocommerce",
+    "download_url": "https://github.com/wcpos/authorize-net-terminal-for-woocommerce/releases/download/v0.1.0/authorize-net-terminal-for-woocommerce.zip",
+    "latest_version": "0.1.0",
+    "released_at": "",
+    "settings_url": "admin.php?page=wc-settings&tab=checkout&section=authorize_net_terminal_for_woocommerce",
+    "log_source": "authorize-net-terminal-for-woocommerce"
+  },
+  {
     "slug": "email-invoice-gateway",
     "name": "Email Invoice Gateway",
     "description": "Send an invoice email to the customer with a link to pay for the order.",
