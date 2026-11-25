@@ -126,7 +126,7 @@
     ],
     "requires_wp": "5.2",
     "requires_wc": "",
-    "requires_wcpos": "",
+    "requires_wcpos": "2.0.0",
     "requires_pro": true,
     "icon": "https://raw.githubusercontent.com/wcpos/extensions/refs/heads/main/icons/paypal.svg",
     "homepage": "https://github.com/wcpos/paypal-reader-for-woocommerce",
